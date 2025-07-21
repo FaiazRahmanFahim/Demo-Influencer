@@ -311,10 +311,6 @@ nav{
   height: 32px;
 }
 
-  main,
-  footer {
-    display: none;
-  }
 
 @media screen and (max-width: 420px) {
   body {
